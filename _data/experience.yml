@@ -3,8 +3,7 @@
   link: https://stelliant.eu/
   job_title: Lead Software Engineer
   dates: October 2017 - Present
-  quote: >
-   Specialised in Insurance Expertise 
+  quote: Specialised in Insurance Expertise 
   description: | # this will include new lines to allow paragraphs
    I supervise a small team of programmers to develop and maintain the insurance expertise legacy system of the Construction Insurance branch of the company, working directly
    with the Project Owner and the Quality Assurance team.
@@ -14,7 +13,7 @@
    - Attending planning meetings,
    - Insuring roadmap items feed into upcoming releases,
    - Development of new features while keeping the legacy code stable, correcting anomalies and optimising,
-   - Electronic data interchange (EDI) support, correction of errors during transmission / reception of data to and from other companies,
+   - Electronic data interchange (EDI) development and maintenance, correction of errors during transmission / reception of data to and from other companies,
    - Managing the delivery of new releases for the business aplication and the EDI application.
    - Providing technical support to the Hotline team and sometimes to the users directly.
    
@@ -34,4 +33,4 @@
    - Finding and fixing reported issues in the software,
    - Delivering patches to the clients that reported the issue in their current version (all fixes were included in the next release).
    - Providing technical support to the Hotline team,
-   - Maintaining the interface between the mobile app and the desktop main application,
+   - Maintaining the interface between the mobile app and the desktop main application.
