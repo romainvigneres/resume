@@ -1,0 +1,37 @@
+- layout: left
+  company: Stelliant
+  link: https://stelliant.eu/
+  job_title: Lead Software Engineer
+  dates: October 2017 - Present
+  quote: >
+   Specialised in Insurance Expertise 
+  description: | # this will include new lines to allow paragraphs
+   I supervise a small team of programmers to develop and maintain the insurance expertise legacy system of the Construction Insurance branch of the company, working directly
+   with the Project Owner and the Quality Assurance team.
+   
+   My main tasks includes:
+   - Keeping the roadmap up to date,
+   - Attending planning meetings,
+   - Insuring roadmap items feed into upcoming releases,
+   - Development of new features while keeping the legacy code stable, correcting anomalies and optimising,
+   - Electronic data interchange (EDI) support, correction of errors during transmission / reception of data to and from other companies,
+   - Managing the delivery of new releases for the business aplication and the EDI application.
+   - Providing technical support to the Hotline team and sometimes to the users directly.
+   
+   Completed tasks:
+   - Redesigned company’s business application,
+   - Rewrote several internal tools to make them easier to use and maintain,
+   - Automatisation of the generation of documentation for future implementations.
+- layout: left
+  company: Sopra Steria
+  link: https://www.soprasteria.com/en
+  job_title: Software Engineer
+  dates: September 2016 - September 2017
+  quote: Information technology consulting company
+  description: |
+   I was part of the maintenance team on the Ulis Enterprise software, a product of Sopra Steria specialised in managing very large social housing stock.
+   My tasks included:
+   - Finding and fixing reported issues in the software,
+   - Delivering patches to the clients that reported the issue in their current version (all fixes were included in the next release).
+   - Providing technical support to the Hotline team,
+   - Maintaining the interface between the mobile app and the desktop main application,

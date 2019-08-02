@@ -1,0 +1,22 @@
+- layout: left
+  name: INTI Formation
+  dates: 2016 - 2016
+  qualification: Specialisation in Software development
+  quote: >
+    As a specialist in training for digital professions, INTI offers its corporate clients unique capabilities in the development and implementation of advanced and optimized reskilling (professional retraining) or upskilling (skills development) courses.
+  description: | # this will include new lines to allow paragraphs
+    I completed a 3 months training in Java JEE
+- layout: left
+  name: École Nationale d'Ingénieurs de Tarbes
+  dates: 2010 - 2016
+  qualification: Master of General Engineering
+  quote: >
+    Founded in 1963, the École nationale d'Ingénieurs de Tarbes - ENIT is a French school of engineering leading to the French “Diplôme d'Ingénieur” under the authority of the French Ministry of Education and Research and part of the National Polytechnic Institute of Toulouse.
+  description: | 
+  
+- layout: left
+  name: Lycée Le Garros
+  dates: 2007 - 2010
+  qualification: Bachelor in Mechanical Engineering
+  quote:
+  description:

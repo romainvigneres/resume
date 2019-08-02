@@ -1,1 +1,59 @@
-theme: jekyll-theme-minimal
+# Site
+repository: romainvigneres/resume
+# favicon: images/favicon.ico
+
+# Personal info
+name: Romain VIGNERES
+title: Lead Software Engineer
+email: vigneres.romain@gmail.com
+# website: www.github.com/romainvigneres/resume
+
+# Social links
+# twitter_username: facespics
+github_username:  romainvigneres
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: chillwildlife
+linkedin_username: romain.vigneres
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Romain and I'm a lead software engineer. As well as maintaining enterprise legacy applications I also have experience developping new features and generating documentation from legacy implementations. I have worked at a number of companies gaining teamwork and leadership skills.
+
+  I am most skilled in: <mark>Uniface</mark> and <mark>Python</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in software engineering some of my other interests and hobbies are:
+   - Cycling
+   - Football
+   - Autochess
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
