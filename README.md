@@ -1,8 +1,8 @@
-## Resume
+# Resume
 
 My latest resume.
 
-# PDF
+## PDF
 
 * [Français](resume_fr.pdf)
 * [English](resume.pdf)
