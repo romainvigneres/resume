@@ -4,5 +4,5 @@ My latest resume.
 
 ## PDF
 
-* [Français](resume_fr.pdf)
-* [English](resume.pdf)
+* [Français](https://github.com/romainvigneres/resume/blob/master/resume_fr.pdf)
+* [English](https://github.com/romainvigneres/resume/blob/master/resume.pdf)
